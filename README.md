@@ -1,4 +1,4 @@
-**This project is a Movie Recommendation System that leverages AI and MongoDB for storing and retrieving movie embeddings. The application processes a dataset of movies, generates embeddings using AI models, and stores them in a MongoDB database for querying and comparison.**
+**This project is a Movie Recommendation System that leverages AI and MongoDB for storing and retrieving movie embeddings. The application processes a dataset of movies, generates embeddings using AI sentence transformer (all-minilm-l6-v2), and stores them in a MongoDB database for querying and comparison.**
 
 **Features**
 CSV Parsing: Reads movie data from a CSV file (e.g., IMDB movie data).
